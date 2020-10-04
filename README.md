@@ -1,3 +1,6 @@
+# Inspired by
+This script is inspired by jbreed's ![apkwash](https://github.com/jbreed/apkwash) (Thanks a lot!)
+
 # Dependencies
 To use APKrab you first need to install apktool and default-jdk
 
