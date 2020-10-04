@@ -1,4 +1,5 @@
-# Deppendencies
+# Dependencies
+To use APKrab you first need to install apktool and default-jdk
 
 # APKrab
 APKrab is a dummy bash script to obfuscate android meterpreter by mixing names and permissions in AndroidManifest.xml and other files and directories
